@@ -4,4 +4,7 @@ The log of my #100DaysOfCode challenge. Started on 03/01/22.
 
 ### R1D1 - 03/01/22
 Re-familiarised with git/github basics, and VSCode. 
-### R1D2
+### R1D2 - 03/01/22
+js functions - helpers, parameters, expressions, arrow functions, concise functions
+
+### R1D3 - 
