@@ -9,3 +9,6 @@ js functions - helpers, parameters, expressions, arrow functions, concise functi
 
 ### R1D3 - 10/01/22
 race day problem on codecademy - if/else statement revision, control flow, string interpolation
+
+### R1D4 - 11/01/22
+CLI commands, Terminal practise
