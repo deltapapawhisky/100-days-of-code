@@ -7,4 +7,11 @@ Re-familiarised with git/github basics, and VSCode.
 ### R1D2 - 03/01/22
 js functions - helpers, parameters, expressions, arrow functions, concise functions
 
-### R1D3 - 
+### R1D3 - 10/01/22
+race day problem on codecademy - if/else statement revision, control flow, string interpolation
+
+### R1D4 - 11/01/22
+CLI commands, Terminal practise
+
+### R1D5 - 13/01/22
+Rock, Paper, Scissors game on Codecademy
