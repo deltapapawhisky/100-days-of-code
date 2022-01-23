@@ -12,6 +12,10 @@ race day problem on codecademy - if/else statement revision, control flow, strin
 
 ### R1D4 - 11/01/22
 CLI commands, Terminal practise
+<<<<<<< HEAD
 
 ### R1D5 - 13/01/22
 Rock, Paper, Scissors game on Codecademy
+
+=======
+
